@@ -1,4 +1,4 @@
-#Recursion# in programming is a technique where a function calls itself to solve a problem by breaking it down into smaller, similar subproblems until a base case is reached, at which point the recursion stops. 
+# Recursion in programming is a technique where a function calls itself to solve a problem by breaking it down into smaller, similar subproblems until a base case is reached, at which point the recursion stops. 
 
 What it is:
 
@@ -22,20 +22,16 @@ How it works:
 Advantages:
 
     Simplicity:
-    Can make code more readable and concise for problems that naturally lend themselves to recursion. 
-
-Problem Structure:
-
-    Recursion can mirror the structure of the problem being solved, making it easier to understand. 
+        Can make code more readable and concise for problems that naturally lend themselves to recursion. 
+    Problem Structure:
+        Recursion can mirror the structure of the problem being solved, making it easier to understand. 
 
 Disadvantages:
 
     Memory Usage:
-    Recursive calls consume memory on the call stack, which can be a problem for deep recursion. 
-
-Stack Overflow:
-
-    If the base case is not defined correctly or if the recursion is too deep, it can lead to a stack overflow error. 
+        Recursive calls consume memory on the call stack, which can be a problem for deep recursion. 
+    Stack Overflow:
+        If the base case is not defined correctly or if the recursion is too deep, it can lead to a stack overflow error. 
 
 Examples of when recursion is useful:
 
