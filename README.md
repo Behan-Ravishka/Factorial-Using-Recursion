@@ -1,3 +1,6 @@
+![66853cc41f94d_recursion_in_c_2_copy](https://github.com/user-attachments/assets/067014e3-f4c7-4fab-a2a0-2604f5ae3ff2)
+
+
 # Recursion in programming is a technique where a function calls itself to solve a problem by breaking it down into smaller, similar subproblems until a base case is reached, at which point the recursion stops. 
 
 What it is:
